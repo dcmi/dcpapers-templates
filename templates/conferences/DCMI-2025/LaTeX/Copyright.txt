@@ -1,0 +1,1 @@
+Latex files are licensed under the LaTeX Project Public License (Copyright.lppl)
